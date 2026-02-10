@@ -1,0 +1,19 @@
+.app {
+  position: relative;
+  min-height: 100vh;
+  padding: 1rem;
+}
+
+.app-content {
+  position: relative;
+  z-index: 1;
+  max-width: 42rem;
+  margin: 0 auto;
+  padding-bottom: 4rem;
+}
+
+@media (min-width: 640px) {
+  .app {
+    padding: 2rem;
+  }
+}

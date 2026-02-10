@@ -1,0 +1,49 @@
+.yes-answer {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  position: relative;
+  z-index: 1;
+}
+
+.yes-content {
+  text-align: center;
+  max-width: 28rem;
+}
+
+.yes-emoji {
+  font-size: 4rem;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.yes-title {
+  font-family: var(--font-display);
+  font-size: clamp(2rem, 5vw, 2.75rem);
+  font-weight: 700;
+  color: var(--cream);
+  margin-bottom: 1rem;
+  line-height: 1.2;
+}
+
+.yes-message {
+  font-size: 1.125rem;
+  line-height: 1.7;
+  color: var(--rose-200);
+  margin-bottom: 2rem;
+}
+
+.yes-sign {
+  display: block;
+  margin-top: 0.75rem;
+  font-family: var(--font-display);
+  font-style: italic;
+  color: var(--gold);
+}
+
+.yes-hearts {
+  font-size: 1.5rem;
+  letter-spacing: 0.5rem;
+}

@@ -1,0 +1,39 @@
+:root {
+  --rose-50: #fff1f2;
+  --rose-100: #ffe4e6;
+  --rose-200: #fecdd3;
+  --rose-300: #fda4af;
+  --rose-400: #fb7185;
+  --rose-500: #f43f5e;
+  --rose-600: #e11d48;
+  --rose-700: #be123c;
+  --rose-800: #9f1239;
+  --rose-900: #881337;
+  --cream: #fef7f0;
+  --chocolate: #3d2314;
+  --gold: #d4a853;
+  --font-display: 'Playfair Display', Georgia, serif;
+  --font-body: 'Outfit', system-ui, sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-body);
+  background: linear-gradient(165deg, #1a0a0e 0%, #2d1519 40%, #1a0a0e 100%);
+  min-height: 100vh;
+  color: var(--cream);
+  overflow-x: hidden;
+}
+
+#root {
+  min-height: 100vh;
+}
