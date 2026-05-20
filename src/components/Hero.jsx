@@ -23,7 +23,7 @@ export default function Hero() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ delay: 0.4, duration: 0.6 }}
       >
-        Tina, you have a
+        Madhu, you have a
         <span className="hero-title-accent"> secret message</span>
       </motion.h1>
       <motion.p
@@ -32,7 +32,7 @@ export default function Hero() {
         animate={{ opacity: 1 }}
         transition={{ delay: 0.7, duration: 0.5 }}
       >
-        From John — scroll down to open it ✨
+        From Saidii — scroll down to open it ✨
       </motion.p>
       <motion.div
         className="hero-scroll-hint"
