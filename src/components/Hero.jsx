@@ -32,7 +32,7 @@ export default function Hero() {
         animate={{ opacity: 1 }}
         transition={{ delay: 0.7, duration: 0.5 }}
       >
-        From jogendra — scroll down to open it ✨
+        From Krishna — scroll down to open it ✨
       </motion.p>
       <motion.div
         className="hero-scroll-hint"

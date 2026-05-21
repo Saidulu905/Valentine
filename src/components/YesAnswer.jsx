@@ -26,7 +26,7 @@ export default function YesAnswer() {
         <p className="yes-message">
           Can't wait to make this Valentine's Day special with you. You mean the world to me, Radha.
           <br />
-          <span className="yes-sign">— jogendra 💗</span>
+          <span className="yes-sign">— Krishna 💗</span>
         </p>
         <motion.p
           className="yes-hearts"

@@ -58,7 +58,7 @@ export default function LoveLetter() {
                     {line}
                   </motion.p>
                 ))}
-                <p className="letter-sign">With love, jogendra 💕</p>
+                <p className="letter-sign">With love, Krishna 💕</p>
               </motion.div>
             )}
           </AnimatePresence>
