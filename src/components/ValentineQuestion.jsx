@@ -38,7 +38,7 @@ const NO_MESSAGES = [
   "I made this for you! 💕",
   "Just say yes! 💕",
   "The Yes button misses you",
-  "John is waiting 💕",
+  "Jogendra is waiting 💕",
   "Yes = confetti 🎉",
   "You know you want to 😏",
   "Pleeease? 🙏",
