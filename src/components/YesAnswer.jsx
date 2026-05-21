@@ -22,11 +22,11 @@ export default function YesAnswer() {
         >
           💕
         </motion.span>
-        <h1 className="yes-title">Yay Madhu! I'm so happy!</h1>
+        <h1 className="yes-title">Yay Radha! I'm so happy!</h1>
         <p className="yes-message">
-          Can't wait to make this Valentine's Day special with you. You mean the world to me, Madhu.
+          Can't wait to make this Valentine's Day special with you. You mean the world to me, Radha.
           <br />
-          <span className="yes-sign">— Saidii 💗</span>
+          <span className="yes-sign">— jogendra 💗</span>
         </p>
         <motion.p
           className="yes-hearts"

@@ -94,7 +94,7 @@ export default function ValentineQuestion({ onYes }) {
         whileInView={{ opacity: 1 }}
         viewport={{ once: true }}
       >
-        Madhu, will you be my Valentine?
+        Radha, will you be my Valentine?
       </motion.h2>
       <div className="question-buttons">
         <motion.button

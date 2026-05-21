@@ -46,7 +46,7 @@ export default function LoveLetter() {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.4 }}
               >
-                <p className="letter-greeting">Dear Madhu,</p>
+                <p className="letter-greeting">Dear Radha,</p>
                 {lines.map((line, i) => (
                   <motion.p
                     key={i}
@@ -58,7 +58,7 @@ export default function LoveLetter() {
                     {line}
                   </motion.p>
                 ))}
-                <p className="letter-sign">With love, Saidii 💕</p>
+                <p className="letter-sign">With love, jogendra 💕</p>
               </motion.div>
             )}
           </AnimatePresence>
