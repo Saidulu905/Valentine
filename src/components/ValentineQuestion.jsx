@@ -33,7 +33,7 @@ const NO_MESSAGES = [
   'No',
   'Okay maybe... 👀',
   'Please? 😊',
-  'Pretty please? 🥺',
+  'Radha please? 🥺',
   "Yes is this way →",
   "I made this for you! 💕",
   "Just say yes! 💕",
